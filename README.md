@@ -25,13 +25,13 @@ While CP is my passion, I also build things!
 * **Languages:** C++, C, JavaScript, HTML, CSS 
 * **Development:** Node.js, React.js, Next.js, Express.js, Firebase, Appwrite 
 * **Featured Projects:**
-    * **[Network's Lifeline](repo-link)**: A real-time LAN device monitor using Node.js and Firebase.
-    * **[Tehkhana](repo-link)**: A secure cloud file storage application built with Next.js and Appwrite.
-    * **[Sudoku Solver Visualizer](repo-link)**: A React-based tool that visualizes a backtracking algorithm in real-time.
+    * **[Network's Lifeline](https://github.com/Yesh287/Network-s-Lifeline)**: A real-time LAN device monitor using Node.js and Firebase.
+    * **[Tehkhana](https://github.com/Yesh287/Tehkhana)**: A secure cloud file storage application built with Next.js and Appwrite.
+    * **[Sudoku Solver Visualizer](https://github.com/Yesh287/sudoku-Solver-Visualizer)**: A React-based tool that visualizes a backtracking algorithm in real-time.
 
 ---
 
 ### 📫 Let's Connect
 
-* **LinkedIn:** [linkedin.com/in/YeshAgarwal](https://linkedin.com/in/YeshAgarwal) 
+* **LinkedIn:** [linkedin.com/in/YeshAgarwal](https://www.linkedin.com/in/yesh-agarwal-b77290273/) 
 * **Email:** [yashagarwal287@gmail.com](mailto:yashagarwal287@gmail.com) 
