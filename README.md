@@ -9,7 +9,7 @@
 My main focus is on competitive programming, where I actively participate in contests and solve problems.
 
 * **ICPC Amritapuri Regionalist**
-* **Codeforces Expert** (Handle: [Valhalla RL](https://codeforces.com/profile/Valhalla_RLL))
+* **Codeforces Expert** (Handle: [Valhalla RL](https://codeforces.com/profile/Valhalla_RL))
     * Successfully solved over 1000 problems and competed in 80+ contests.
     * Ranked in the **top 1.62%** in India.
 * **CodeChef 4 Star** (Handle: [Yesh005](https://www.codechef.com/users/yashagarwal287)) 
