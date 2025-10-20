@@ -1,6 +1,6 @@
 ### Hi there, I'm Yesh Agarwal 👋
 
-[cite_start]I'm an NIT Silchar student passionate about **Competitive Programming** and **Full-Stack Development**[cite: 4]. I enjoy building efficient solutions, from complex algorithms to scalable web applications.
+I'm an NIT Silchar student passionate about **Competitive Programming** and **Full-Stack Development**. I enjoy building efficient solutions, from complex algorithms to scalable web applications.
 
 ---
 
